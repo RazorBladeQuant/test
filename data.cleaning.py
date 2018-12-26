@@ -4,3 +4,5 @@ x='test'
 print('printing {}'.format(x))
 
 HUHUHUH
+
+PRINT(HUHUHAUHA)
